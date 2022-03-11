@@ -1,0 +1,2 @@
+C:\Users\berkc\Desktop\Udemy\a\GetLucky\obj\Debug\CFXRDemoEditor.csproj.AssemblyReference.cache
+C:\Users\berkc\Desktop\Udemy\a\GetLucky\obj\Debug\CFXRDemoEditor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerPath
+  - redCabin
+  - exit
+  - hanger
+  - cloth
+  - true
+  - false
+  - cabin
+  - cabinLose
+  - goldenGate
+  - obstacle
+  - transparent
+  - bikini
+  - poolCoins
+  - coin
+  - stairs
+  - run
+  - right
+  - left
+  - wall
+  - finish
+  - goldenBody
+  - poolBody
+  - granny
+  - badgirlFollow
+  - dontfollowBadGirl
+  - badGirl
+  - directPathCreator
+  - grannyTurn1
+  - grannyTurn2
+  - dontfollowBadGirl2
+  - badgirlFollow2
+  - dontfollowBadGirl3
+  - badgirlFollow3
+  - Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

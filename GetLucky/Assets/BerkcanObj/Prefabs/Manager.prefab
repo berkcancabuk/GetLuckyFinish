@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3105408556422473969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3105408556422473968}
+  - component: {fileID: 3105408556422473971}
+  m_Layer: 0
+  m_Name: UImanager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3105408556422473968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3105408556422473969}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3105408558320873538}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3105408556422473971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3105408556422473969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f9b4b2d10f479e4c9390895d1b884b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  particle_bikinis: {fileID: 0}
+  swerve_input: {fileID: 0}
+  game_manager: {fileID: 0}
+  main_char: {fileID: 0}
+  coin: {fileID: 0}
+  noPoolText: {fileID: 0}
+  textConfident: {fileID: 0}
+  textBubbly: {fileID: 0}
+  sexyImage: {fileID: 0}
+  SpicyImage: {fileID: 0}
+  textAngry: {fileID: 0}
+  colorbar: {fileID: 0}
+  bar: {fileID: 0}
+  settinAnim: {fileID: 0}
+  fireAnim: {fileID: 0}
+  layer: {fileID: 0}
+  shine: {fileID: 0}
+  get3x: {fileID: 0}
+  restartPanel: {fileID: 0}
+  vipPanel: {fileID: 0}
+  cuteButton: {fileID: 0}
+  vipButton: {fileID: 0}
+  storeClose: {fileID: 0}
+  vipClose: {fileID: 0}
+  bikinisPanel: {fileID: 0}
+  storeGamePanel: {fileID: 0}
+  storePanel: {fileID: 0}
+  isStopGame: 0
+  settingObjectAnim: {fileID: 0}
+  settingObjectClose: {fileID: 0}
+  settingobjectOpen: {fileID: 0}
+  isvipPanels: 0
+  isCutePanel: 0
+  hotBarParent: {fileID: 0}
+  FirstBikini: {fileID: 0}
+  FirstBikiniOpen: {fileID: 0}
+  continues: {fileID: 0}
+  undressImage: {fileID: 0}
+  gameover: {fileID: 0}
+  x3Coins: {fileID: 0}
+  hotText: {fileID: 0}
+  hotImageBarParent: {fileID: 0}
+  vibrationOff: {fileID: 0}
+  soundOff: {fileID: 0}
+  vibrationOn: {fileID: 0}
+  soundOn: {fileID: 0}
+  isSoundOpen: 0
+  isVibrationOpen: 0
+  HeartCircle: {fileID: 0}
+  isBikiniPanelOpen: 0
+  Textlevel: {fileID: 0}
+  levelValue: 1
+  textNoInPool: {fileID: 0}
+  complated: {fileID: 0}
+  redHotCanvas: {fileID: 0}
+  levelCount: 1
+  y: 0
+  keepitPanel: {fileID: 0}
+  fantastictext: {fileID: 0}
+  loseitbutton: {fileID: 0}
+--- !u!1 &3105408557450936441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3105408557450936440}
+  - component: {fileID: 3105408557450936443}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3105408557450936440
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3105408557450936441}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3105408558320873538}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3105408557450936443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3105408557450936441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ff9074ed334a074a95e7f59d55d9c01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3105408558320873539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3105408558320873538}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3105408558320873538
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3105408558320873539}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3105408557450936440}
+  - {fileID: 3105408556422473968}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

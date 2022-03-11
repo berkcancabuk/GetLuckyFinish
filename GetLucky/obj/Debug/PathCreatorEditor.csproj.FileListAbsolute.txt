@@ -1,0 +1,2 @@
+C:\Users\berkc\Desktop\Udemy\a\GetLucky\obj\Debug\PathCreatorEditor.csproj.AssemblyReference.cache
+C:\Users\berkc\Desktop\Udemy\a\GetLucky\obj\Debug\PathCreatorEditor.csproj.CoreCompileInputs.cache
